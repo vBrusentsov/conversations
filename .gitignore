@@ -24,6 +24,3 @@ package-lock.json
 test/coverage
 test/cov_profile
 coverage.lcov
-
-# Build output
-out/
